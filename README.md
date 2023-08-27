@@ -1,4 +1,4 @@
-#Portfolio-page-Bootstrap-SaSS-practise
+# Portfolio-page-Bootstrap-SaSS-practise
 
 The aim of this practical project was to explore and strengthen my knowledge in Sass and Bootstrap by crafting a simulated portfolio project website.
 
